@@ -31,9 +31,3 @@ The application empowers users to rate GitHub repositories. Our app will encompa
 1. Install the dependencies: `npm install` or `yarn install`
 2. Run the development server: `npm start` or `yarn start`
 3. Open the app in your mobile emulator or connected device
-
-### Documentation
-
-Detailed documentation is provided within the code. Feel free to explore and learn from the project's implementation!
-
-### Happy Coding!
