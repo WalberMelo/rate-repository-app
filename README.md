@@ -1,6 +1,6 @@
 ## GitHub Rate React Native App
 
-[Image of the app](assets/rate-repository-app.png)
+[Image of the app](./assets/rate-repository-app.png)
 
 This project builds a comprehensive React Native application from scratch, allowing you to delve into essential concepts like React Native's core components, crafting user-friendly interfaces, communicating with servers, and testing React Native apps.
 
