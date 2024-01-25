@@ -5,6 +5,7 @@ import YupPassword from "yup-password";
 
 import Button from "./Button";
 import FormikTextInput from "./FormikTextInput";
+import Text from "./Text";
 
 const styles = StyleSheet.create({
   container: {
@@ -36,6 +37,7 @@ const SignIn = () => {
 
   return (
     <View style={styles.container}>
+      <Text fontWeight="bold">GitHub Repository Rate</Text>
       <Formik
         initialValues={initialValues}
         onSubmit={onSubmit}
