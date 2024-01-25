@@ -33,7 +33,7 @@ const AppBar = () => {
 
         <Link to="/signin" style={styles.link}>
           <Text color="textLight" fontSize="subheading" fontWeight="bold">
-            SignIn
+            Sign In
           </Text>
         </Link>
       </ScrollView>
